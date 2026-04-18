@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><SHOP/>
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <!-- Cenový feed Bohemiangames.cz | Vygenerováno: 2026-04-18 17:06:23 | Počet produktů: 3 -->
+  <SHOPITEM>
+    <ITEM_ID>GLOOM001</ITEM_ID>
+    <PRICE_VAT>3200.00</PRICE_VAT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>SPIRIT01</ITEM_ID>
+    <PRICE_VAT>1700.00</PRICE_VAT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>WSPAN-COL</ITEM_ID>
+    <PRICE_VAT>2330.00</PRICE_VAT>
+  </SHOPITEM>
+</SHOP>
